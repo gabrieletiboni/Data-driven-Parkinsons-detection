@@ -6,7 +6,7 @@ For all the details on the project [see the full project report](https://hekti.c
 
 **Useful resources**:
 
-- Code
+- [Code](https://github.com/gabrieletiboni/Data-driven-Parkinsons-detection/blob/main/CODE/Parkinsons.py)
 - [Report](https://hekti.com/websites/tesina/)
 
 ---
